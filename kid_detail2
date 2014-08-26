@@ -37,10 +37,10 @@
 
 
   <div class="row" id="kids">
-  
+  <div class="col-lg-12">
     <h3>Prams</h3>
     <div class="thumbnail row">
-      <div class="col-lg-12">
+      <div class="col-lg-6">
         <div class="thumbnail">
            <img class="image" src="images\cradle.jpg" alt="pram">
               </div class="label label-info price">
@@ -146,10 +146,11 @@ Woot.com is operated by Woot Services LLC. Products on Woot.com are sold by Woot
   </div>
   <hr>
   <h6 align="center">
-WOOT LOGOS, SITE DESIGN, & CONTENT © WOOT, INC. 2004-2014. ALL RIGHTS RESERVED.
+WOOT LOGOS, SITE DESIGN, & CONTENT Â© WOOT, INC. 2004-2014. ALL RIGHTS RESERVED.
   <br/><br/>
   </h5>
 </div>
 </div>
-</div>
+
+
 </html>
