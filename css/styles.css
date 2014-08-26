@@ -22,3 +22,11 @@ img.image
  width: 400px;
     height: 300px;
 }
+.backcolor
+{
+background-color: #FFA500;
+}
+.menudivcolor
+{
+background-color: #000000;
+}
